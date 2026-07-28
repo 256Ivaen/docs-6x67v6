@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ka6v5i.salamduit.sbs/sitemap.xml
